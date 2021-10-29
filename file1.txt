@@ -1,1 +1,2 @@
 this is my first version of file learining git
+this is my second version of file 
